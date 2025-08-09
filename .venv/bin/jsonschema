@@ -1,4 +1,4 @@
-#!/home/manoel/Documentos/imersao_python/.venv/bin/python3
+#!/home/manoel/Documentos/imersao_python/dados_python_alura/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
